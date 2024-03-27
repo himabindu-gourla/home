@@ -193,6 +193,7 @@ nav.burger{
     flex-wrap: wrap;
     gap: 30px;
 }
+
 .Services-card{
     width: 300px;
     display: flex;
